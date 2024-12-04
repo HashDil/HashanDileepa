@@ -33,13 +33,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HiranSamaranayake&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HashanDileepa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hiran" src="https://github-readme-streak-stats.herokuapp.com/?user=HiranSamaranayake&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hashan" src="https://github-readme-streak-stats.herokuapp.com/?user=HashanDileepa&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HiranSamaranayake&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HashanDileepa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -58,11 +58,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCC8OT3hpB4KZu-xtaHnNF6Q" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Hiran_Samaranayake" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/hiran-samaranayake-3a596a2a5/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
-<a href="https://medium.com/@hiransamaranayake" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
-<a href="https://www.facebook.com/hiran.anjana.7?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
-<a href="https://www.instagram.com/hiran_samaranayake?igsh=MXJiZm1zeTlubzlqMQ==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Hiran_Samaranayake" height="50" width="50" /></a>
+<a href="http://www.youtube.com/@Hashboiii" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Hashan Dileepa" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/hashan-dileepa-67085b319/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Hashan Dileepa" height="50" width="50" /></a>
+<a href="https://medium.com/@hiransamaranayake" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" alt="Hashan Dileepa" height="50" width="50" /></a>
+<a href="https://www.facebook.com/hashan.dileepa.505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hashan Dileepa" height="50" width="50" /></a>
+<a href="https://www.instagram.com/hash_dileepa/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Hashan Dileepa" height="50" width="50" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
