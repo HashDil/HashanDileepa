@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hashan Dileepa</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashdil&label=Profile%20views&color=0e75b6&style=flat" alt="hashdil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashdil&label=Profile%20views&color=0e75b6&style=flat" alt="hashdil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashdil" alt="hashdil" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashdil" alt="hashdil" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
